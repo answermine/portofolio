@@ -1,0 +1,17 @@
+.vertical{
+	background-color: red;
+	height: 100px;
+	content: "";
+	width: 2px;
+	left: 50%;
+	margin-left: -1px;
+	position: absolute;
+	display: block;
+	margin-top: -80px;
+}
+
+.pendidikan .smp img{
+	float: right;
+	margin-left: 50%;
+}
+

@@ -1,0 +1,154 @@
+.navbar{
+	background-color: transparent;
+	border: none;
+
+}
+
+.navbar-fixed-top.scrolled{
+	background-color: #0b4e65 !important;
+	transition: background-color 200ms linear;
+}
+
+.navbar-fixed-top.scrolled .nav-link{
+	color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #fff;
+	background-color: #00688c;
+}
+
+.navbar-brand{
+	margin-left: 0;
+	margin-top: -25px;
+}
+
+.jumbotron{
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-image: url("mountain.jpg");
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.jumbotron h1{
+	color: #000;
+	margin-bottom: 50px;
+}
+
+.jumbotron .container p{
+	font-size: 16px;
+	color: #000;
+}
+
+h2{
+	color:	#005a7e;
+}
+
+.hr1{
+	width: 50px;
+	border: 1px solid #00425a;
+}
+
+.hr2{
+	width: 100px;
+	border: 1px solid #00425a;
+	margin-top: -95px;
+}
+
+.education h2 , .pengalaman h2{
+	margin-top: 100px;
+}
+
+.education hr , .pengalaman hr{
+	margin-bottom: 100px;
+}
+
+h3{
+	color: 	#6497b1;
+	padding-top: 30px;
+}
+
+.education{
+	margin-bottom: 80px;
+}
+
+.pengalaman{
+	margin-bottom: 80px;
+	
+}
+
+.pengalaman thead{
+	background-color: #00688c;
+	color: #fff;
+}
+
+	
+.wrapper{
+	padding-top: 100px;
+	padding-bottom: 200px;
+	background-image: url('mountain2.jpg');
+	background-size: cover;
+	background-position: center;
+	font-weight: bold;
+	background-attachment: fixed;
+}
+
+.thumbnail2{
+	border: none;
+	text-align: center;
+}
+
+.fas{
+	font-size: 100px;
+	text-align: center;
+	padding: 30px;
+	border-radius: 50%;
+	color: #00425a;
+}
+
+.hr23{
+	width: 100px;
+	border: 1px solid #00425a;
+	margin-top: -14px;
+	margin-bottom: 100px;
+}
+
+.bawah{
+	font-size: 40px;
+	color: #fff;
+	margin-bottom: -24px;
+}
+
+.kontak .container .caption p{
+	color: #fff;
+}
+
+.kontak{
+	background-color: #00688c;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.kontak .thumbnail2{
+	background-color: #00688c;
+}
+
+.footer{
+	color: #fff;
+	background-color: #000;
+	padding: 20px 0;
+}
+
+.thumbnail3 .caption p{
+	margin-bottom: 40px;
+}
+
+
+
+	
